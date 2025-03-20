@@ -1,0 +1,4 @@
+pynput
+pandas
+pyautogui
+pywin32; sys_platform == "win32"
